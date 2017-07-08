@@ -1,0 +1,12 @@
+#ifndef WEBCRAWLER_GLOBAL_H
+#define WEBCRAWLER_GLOBAL_H
+
+#include <QtCore/qglobal.h>
+
+#if defined(WEBCRAWLER_LIBRARY)
+#  define WEBCRAWLERSHARED_EXPORT Q_DECL_EXPORT
+#else
+#  define WEBCRAWLERSHARED_EXPORT Q_DECL_IMPORT
+#endif
+
+#endif // WEBCRAWLER_GLOBAL_H

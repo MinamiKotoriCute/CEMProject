@@ -1,0 +1,4 @@
+
+build-Android-Android_for_armeabi_v7a_GCC_4_8_Qt_5_7_0-Release/android-build/AndroidManifest.xml
+build-Android-Android_for_armeabi_v7a_GCC_4_8_Qt_5_7_0-Release/android-build/bin/aidl/org/kde/necessitas/ministro/IMinistro.aidl
+build-Android-Android_for_armeabi_v7a_GCC_4_8_Qt_5_7_0-Release/android-build/bin/aidl/org/kde/necessitas/ministro/IMinistroCallback.aidl
