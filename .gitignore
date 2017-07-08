@@ -1,4 +1,8 @@
-
-build-Android-Android_for_armeabi_v7a_GCC_4_8_Qt_5_7_0-Release/android-build/AndroidManifest.xml
-build-Android-Android_for_armeabi_v7a_GCC_4_8_Qt_5_7_0-Release/android-build/bin/aidl/org/kde/necessitas/ministro/IMinistro.aidl
-build-Android-Android_for_armeabi_v7a_GCC_4_8_Qt_5_7_0-Release/android-build/bin/aidl/org/kde/necessitas/ministro/IMinistroCallback.aidl
+build-Android-Android_for_armeabi_v7a_GCC_4_8_Qt_5_7_0-Release
+build-Android-Desktop_Qt_5_7_0_MSVC2015_64bit-Debug
+build-Android-Desktop_Qt_5_7_0_MSVC2015_64bit-Release
+build-CMEProject_v2-Desktop_Qt_5_7_0_MSVC2015_64bit-Debug
+build-CMEProject_v2-Desktop_Qt_5_7_0_MSVC2015_64bit-Release
+build-CMEProject_v3-Desktop_Qt_5_7_0_MSVC2015_64bit-Debug
+build-CMEProject-Desktop_Qt_5_7_0_MSVC2015_64bit-Debug
+build-CMEProject-Desktop_Qt_5_7_0_MSVC2015_64bit-Release
